@@ -53,14 +53,21 @@ __Tutorial Projects__ : Projects that I did while learning a specific Language (
 
 - [Rock Paper Scissors](https://github.com/tirthraj07/RockPaperScissors): A Simple Javascript Project : Single player rock paper scissor game
 
+## 📖 Tutorials
+
+- [Java](https://github.com/tirthraj07/Java-Tutorial)
+- [CMake](https://github.com/tirthraj07/CMake-Tutorial/tree/main)
+- [Next JS](https://github.com/tirthraj07/Next-js-Tutorial)
+- [Lisp](https://github.com/tirthraj07/Lisp-Tutorial)
+- [EC2](https://github.com/tirthraj07/deploy-nodejs-on-ec2)
+
+
 ## 💻 PICT Course Work
 
 ### Third Year
 
 - [System Programming and Operating System + Distributed Systems](https://github.com/tirthraj07/Operating-System)
-
 - [Database Management Systems](https://github.com/tirthraj07/DBMS-Lab)
-
 - [Seminar and Technical Communication](https://github.com/tirthraj07/STC)
 
 ### Second Year
@@ -69,13 +76,6 @@ __Tutorial Projects__ : Projects that I did while learning a specific Language (
 - [Data Structures and Algorithms](https://github.com/tirthraj07/DSAL-Assignments)
 - [Microprocessor](https://github.com/tirthraj07/MPL-Assignments)
 
-
-## 📖 Tutorials
-
-- [Java](https://github.com/tirthraj07/Java-Tutorial)
-- [Next JS](https://github.com/tirthraj07/Next-js-Tutorial)
-- [Lisp](https://github.com/tirthraj07/Lisp-Tutorial)
-- [EC2](https://github.com/tirthraj07/deploy-nodejs-on-ec2)
 
 ## ✏️ Blogs
 
