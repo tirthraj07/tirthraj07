@@ -21,7 +21,7 @@ I am a passionate and self-driven Software Engineer, specializing in Full Stack 
 
 - [C++ Micro Web Framework](https://github.com/tirthraj07/CPP-Web-Server): This project is a micro web framework created in C++, utilizing the Windows Socket API (Winsock2) for network communication. Winsock2 provides the necessary functionality to enable networking capabilities in Windows applications, allowing the framework to handle incoming connections and HTTP requests 
 
-- [Dynamic Heap Memory Allocator](https://github.com/tirthraj07/Memory-Allocator): This project is a custom memory allocator in C++ from scratch designed to manage memory with fine control and efficiency. It implements chunk-based memory management using a best-fit allocation strategy. We leverage the sbrk system call to manage heap space, providing dynamic expansion and shrinkage of memory as needed.
+- [Dynamic Heap Memory Allocator with Integrated Mark-and-Sweep Garbage Collector](https://github.com/tirthraj07/Memory-Allocator): This project is a Custom C++ Memory Allocator made from scratch. Implementation of 'malloc' and 'new' in C++ with integrated Stop-the-World Mark-and-Sweep Garbage Collector
 
 
 ### Web
@@ -80,11 +80,8 @@ __Tutorial Projects__ : Projects that I did while learning a specific Language (
 ## ✏️ Blogs
 
 - [Introduction to Microservices Architecture](https://medium.com/@tirthraj2004/introduction-to-microservices-architecture-b8a0dd7dbbc3)
-
 - [Introduction to Database Clustering using PostgreSQL , Docker and Pgpool-II](https://medium.com/@tirthraj2004/introduction-to-database-clustering-using-postgresql-docker-and-pgpool-ii-ac2a7bf96a5f)
-
 - [Building our own Cloud Storage with FileCloud, EC2 and S3](https://medium.com/@tirthraj2004/building-our-own-cloud-storage-with-filecloud-ec2-and-s3-e5756768da05)
-
 - [Deploying a Node JS Application on EC2 Step by Step](https://medium.com/@tirthraj2004/deploying-a-node-js-application-on-ec2-step-by-step-62e09fb9b88f)
 
 ---
