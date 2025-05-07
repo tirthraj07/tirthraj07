@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Tirthraj Mahajan</h1>
 
-I am a passionate and self-driven Software Engineer, specializing in Full Stack Web Development
+I am a passionate and self-driven Software Engineer, specializing in Full Stack Web Development. 
 
-> [Portfolio](https://tirthraj07.onrender.com/)
+<!-- > [Portfolio](https://tirthraj07.onrender.com/) -->
 
 ---
 
@@ -23,8 +23,21 @@ I am a passionate and self-driven Software Engineer, specializing in Full Stack 
 
 - [Dynamic Heap Memory Allocator with Integrated Mark-and-Sweep Garbage Collector](https://github.com/tirthraj07/Memory-Allocator): This project is a Custom C++ Memory Allocator made from scratch. Implementation of 'malloc' and 'new' in C++ with integrated Stop-the-World Mark-and-Sweep Garbage Collector
 
+### Java  
+
+- [Chord-DHT](https://github.com/tirthraj07/Chord-DHT) : A basic implementation of Chord Based Distributed Hash Table for Distributed Systems
+  
+### Cloud 
+
+- [Scalable-Java-App](https://github.com/tirthraj07/Scalable-Java-App): Deployed a Spring Boot application on AWS using Packer, Terraform and Ansbile. Used : RDS, VPC Subnets, IAM, EC2 instances and Application Load Balancer.
+  
+### Machine Learning 
+
+- [LLM From Scratch](https://github.com/tirthraj07/LLMs-Tutorial): Building a Large Language model from Scratch
 
 ### Web
+
+- [Guardian360](https://github.com/tirthraj07/Guardian360): Guardian360 is an emergency alert system developed for Techfiesta 2025, a 24-hour hackathon organized by the Pune Institute of Computer Technology. The project was undertaken as part of the Women and Child Safety domain, addressing the problem statement titled Emergency Alert System. It is a system that would allow users to send a distress signal to predefined contacts, complete with their real-time location and a brief message. The solution needed to include a mobile app interface for sending alerts and a robust backend server to process and relay these alerts efficiently.
 
 - [Scalp Smart](https://github.com/tirthraj07/ScalpSmart): Scalp Smart is a platform designed to predict baldness stages using AI and computer vision technologies. It analyzes images uploaded by users and provides predictions ranging from Normal to various stages of baldness (Stage 1, Stage 2, Stage 3, Bald). Additionally, the platform recommends products tailored to individual needs.
  
@@ -32,6 +45,8 @@ I am a passionate and self-driven Software Engineer, specializing in Full Stack 
 
 - [Query Cortex](https://github.com/tirthraj07/Query-Cortex): Developed a solution that enables users to interact with databases using natural language questions and receive insightful answers. The solution leverages natural language processing (NLP) to understand user queries, optimize database access using indexing, and generate concise answers. Furthermore, the solution contains the capability to transform database query results into interactive charts 
 
+- [PokeChain](https://github.com/tirthraj07/PokeChain-Web3-Hackathon) :PokeChain is a decentralized Pokemon training game built on the Ethereum blockchain. It combines the beloved Pokemon universe with blockchain technology, allowing players to own, train, and battle with their Pokemon as unique digital assets.
+  
 - [Theatre Booker](https://github.com/tirthraj07/DBMS-Project): The Theatre Booking System is a project developed as part of a DBMS course, utilizing a microservice architecture to handle various aspects of the system. This application allows users to book movie tickets while providing comprehensive management tools for theatre administrators. It is built with a focus on modularity, and future data analysis.
 
 - [DigiBank](https://github.com/tirthraj07/Bank-App): A banking platform for secure document upload & complaint management portal. Key features: Complaint Classification, Prioritization, Summarization & Ticket Status Monitoring. Utilized industry standard Cyber Security algorithms like RSA, AES and Scrypt
@@ -53,14 +68,23 @@ __Tutorial Projects__ : Projects that I did while learning a specific Language (
 
 - [Rock Paper Scissors](https://github.com/tirthraj07/RockPaperScissors): A Simple Javascript Project : Single player rock paper scissor game
 
+---
+
 ## 📖 Tutorials
 
-- [Java](https://github.com/tirthraj07/Java-Tutorial)
+- [Java](https://github.com/tirthraj07/Java-Tutorial)  
+- [C++](https://github.com/tirthraj07/CPP)
+- [Spring Boot](https://github.com/tirthraj07/Spring-Boot/tree/main)  
+- [Terraform](https://github.com/tirthraj07/Terraform)  
+- [Ansible](https://github.com/tirthraj07/Ansible)  
 - [CMake](https://github.com/tirthraj07/CMake-Tutorial/tree/main)
 - [Next JS](https://github.com/tirthraj07/Next-js-Tutorial)
+- [React Native](https://github.com/tirthraj07/React-Native)
+- [Elastic Search](https://github.com/tirthraj07/Elasticsearch)
 - [Lisp](https://github.com/tirthraj07/Lisp-Tutorial)
 - [EC2](https://github.com/tirthraj07/deploy-nodejs-on-ec2)
 
+---
 
 ## 💻 PICT Course Work
 
@@ -70,12 +94,17 @@ __Tutorial Projects__ : Projects that I did while learning a specific Language (
 - [Database Management Systems](https://github.com/tirthraj07/DBMS-Lab)
 - [Seminar and Technical Communication](https://github.com/tirthraj07/STC)
 
+- [Web Technology Lab](https://github.com/tirthraj07/Web-Tech-Lab)
+- [Data Science and Big Data Analytics](https://github.com/tirthraj07/DSBDA-LAB)
+- [Artificial Intelligence + Cloud Computing](https://github.com/tirthraj07/AI-CC-Lab)
+
 ### Second Year
 
 - [Computer Graphics](https://github.com/tirthraj07/Computer-Graphics)
 - [Data Structures and Algorithms](https://github.com/tirthraj07/DSAL-Assignments)
 - [Microprocessor](https://github.com/tirthraj07/MPL-Assignments)
 
+---
 
 ## ✏️ Blogs
 
