@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tirthraj Mahajan</h1>
 
-I am a passionate and self-driven Software Engineer, specializing in Full Stack Web Development. 
+I am a passionate and self-driven Software Engineer
 
 <!-- > [Portfolio](https://tirthraj07.onrender.com/) -->
 
@@ -14,6 +14,29 @@ I am a passionate and self-driven Software Engineer, specializing in Full Stack 
 - <a href="https://www.linkedin.com/in/tirthraj-mahajan/">Linkedin</a>
 - <a href="https://www.instagram.com/tirthraj07/">Instagram</a>
 - <a href="https://medium.com/@tirthraj2004">Medium</a>
+---
+## 📃 Research & Publications 
+
+> [IEEE Profile](https://ieeexplore.ieee.org/author/349071929753258)  
+> [Google Scholar Profile](https://scholar.google.com/citations?user=DnhIOrIAAAAJ)
+
+  
+- [Federated Learning for Cardiovascular Disease Prediction](https://ieeexplore.ieee.org/document/10988445)  
+Published in: 2025 International Conference on Emerging Smart Computing and Informatics (ESCI)  
+DOI: 10.1109/ESCI63694.2025.10988445  
+Publisher: [IEEE](https://www.ieee.org/)  
+  
+- [Hair Loss Stage Classification by Deep Learning](https://ieeexplore.ieee.org/document/10932231)  
+Published in: 2025 1st International Conference on AIML-Applications for Engineering & Technology (ICAET)  
+DOI: 10.1109/ICAET63349.2025.10932231  
+Publisher: [IEEE](https://www.ieee.org/)  
+  
+- [Secure Encryption of Documents and Smart Complaint Management for Banking Applications](https://pijet.org/papers/volume-1%20issue-2/Final%20Revised%20Paper_Pijet-12.pdf)  
+Published in: PICT’s International Journal of Engineering and Technology (PIJET)  
+ISSN: 2584-2668  
+Publisher: [PIJET](https://www.pijet.org)  
+<br><br>
+
 ---
 ## ⚡️ Projects
 
